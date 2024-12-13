@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UsingIteratorPair", "UsingIteratorPair\UsingIteratorPair.vcxproj", "{895650E8-7438-47C5-8FF0-4729A0235B60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{895650E8-7438-47C5-8FF0-4729A0235B60}.Debug|x64.ActiveCfg = Debug|x64
+		{895650E8-7438-47C5-8FF0-4729A0235B60}.Debug|x64.Build.0 = Debug|x64
+		{895650E8-7438-47C5-8FF0-4729A0235B60}.Debug|x86.ActiveCfg = Debug|Win32
+		{895650E8-7438-47C5-8FF0-4729A0235B60}.Debug|x86.Build.0 = Debug|Win32
+		{895650E8-7438-47C5-8FF0-4729A0235B60}.Release|x64.ActiveCfg = Release|x64
+		{895650E8-7438-47C5-8FF0-4729A0235B60}.Release|x64.Build.0 = Release|x64
+		{895650E8-7438-47C5-8FF0-4729A0235B60}.Release|x86.ActiveCfg = Release|Win32
+		{895650E8-7438-47C5-8FF0-4729A0235B60}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C3922F0-65D7-4CA7-AC94-3633553C4102}
+	EndGlobalSection
+EndGlobal

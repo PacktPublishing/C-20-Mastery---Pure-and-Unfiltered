@@ -1,0 +1,1 @@
+https://brevzin.github.io/c++/2023/03/14/prefer-views-meow/
